@@ -5,7 +5,7 @@ This is a Exercise Test Automation Project for Todoist Web App.
 The project used Cucumber BDD, Page Object Model, JUnit as Test Runner, Java -  Maven Project, Selenium Webdriver and Logback classic
 
 ## Test Run 
-To run the whole project, you can execute a Maven Command
+To run the whole project, you can execute a Maven Command - You can download Maven [here](https://maven.apache.org/download.cgi)
 ```bash
 mvn clean verify
 ```
