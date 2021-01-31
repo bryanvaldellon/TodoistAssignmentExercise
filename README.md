@@ -23,7 +23,7 @@ Location of the report : target\cucumber-reports-json\cucumber-html-reports\over
 For debugging purposes, log files are available on : \logs
 
 ## Configuation
-Cunfiguration file is located at : src\test\resources\config.properties
+Configuration file is located at : src\test\resources\config.properties
 ```
 username=<username on the app>
 password=<passsword on the app>
